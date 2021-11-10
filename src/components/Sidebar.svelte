@@ -1,7 +1,7 @@
 <aside class="sidebar">
 	<header>
 		<a href="/" class="logo-home" title="Restaurant info and reviews">
-			<img src="static/logo.svg" alt="contentfullbelly logo" />
+			<img src="/logo.svg" alt="contentfullbelly logo" />
 		</a>
 		<nav>
 			<ul class="main-nav-list">
