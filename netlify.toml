@@ -4,12 +4,12 @@
 
 [dev]
   publish = "build/"
-  command = "npm run dev"
+  command = "svelte-kit dev"
 
-[[plugins]]
+# [[plugins]]
   # package = "./node_modules/@netlify/demo-restaurant-sites-data/plugins/{PLUGIN_DIRECTORY}"
   # package = "./node_modules/@netlify/demo-restaurant-sites-data/plugins/contentful"
 
-  [plugins.inputs]
+  # [plugins.inputs]
     # Directory for the generated JSON data files to reside in
-    dataDir = "src/data"
+    # dataDir = "src/data"
